@@ -22,7 +22,7 @@ function App() {
           <Navbar />
           <Hero />
         </div>
-        <About />
+        <Abo  ut />
         <Experience />
         <Tech />
         <Works />
